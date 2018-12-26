@@ -1,0 +1,17 @@
+commit d4dc0f1857e48ada623f9b4d6f13f92bf3996078
+Author: aprilwzc <april.wzc219@gmail.com>
+Date:   Wed Dec 26 10:05:06 2018 +0800
+
+    added gitignore
+
+commit bede99074804651ceba2436c1619ba7785663b07
+Author: aprilwzc <april.wzc219@gmail.com>
+Date:   Wed Dec 26 09:36:17 2018 +0800
+
+    added teo files
+
+commit 69bcb52658b77753ed2723bc3021aefcabf80c62
+Author: aprilwzc <april.wzc219@gmail.com>
+Date:   Wed Dec 26 09:21:34 2018 +0800
+
+    added readme.txt
